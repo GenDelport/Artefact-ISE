@@ -1,0 +1,106 @@
+﻿.body {
+    background-color: #32383e;
+    color: white;
+}
+
+.vertical-center {
+    margin-top: 25px !important;
+    margin-left: 25px !important;
+}
+
+.vertical-center35 {
+    margin-left: 25px !important;
+    margin-right: 25px !important;
+}
+
+#inputStaffNumber {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 580px;
+    height: 40px;
+}
+
+#inputTitle {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 580px;
+    height: 40px;
+}
+
+#inputStudentNumber {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 580px;
+    height: 40px;
+}
+
+#inputInitials {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 580px;
+    height: 40px;
+}
+
+#inputSurname {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 580px;
+    height: 40px;
+}
+
+#inputProgram {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 580px;
+    height: 40px;
+}
+
+#inputFaculty {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 580px;
+    height: 40px;
+}
+
+#inputYear {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 580px;
+    height: 40px;
+}
+
+.col-12 {
+    margin-top: 10px;
+}
+
+.form{
+    width:75%;
+    margin-left:10px;
+}
+
+
+

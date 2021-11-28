@@ -1,0 +1,49 @@
+﻿@page
+@model WebApplication2.Pages.Progress_ReportModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/profile.css"/>
+
+<body class="body">
+
+    <div class="vertical-center">
+
+        <div>
+            <form method="post">
+                <label>Student Number: </label>
+                <input type="text" id="inputStudentNumber"/>
+                <br>
+                <br>
+                <input class="btn btn-primary" type="submit" value="Show Report"><br><br> 
+            </form>
+
+            <div class="show">
+                <label>Report For: </label>
+                <br><br>   
+            </div>
+            
+        </div>
+        <div class="report">
+            <iframe src="/Reports/5138415231217785189-Progress-Report.pdf" width="200%" height="750px">
+                </iframe>
+        </div>
+        
+
+    </div>
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+</body>
+
+

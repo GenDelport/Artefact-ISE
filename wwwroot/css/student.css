@@ -1,0 +1,28 @@
+﻿body {
+    background-color: #32383e;
+    color: white;
+}
+
+.bgcolor {
+    background-color: rgba(33,37,41,255);
+}
+
+
+
+.btn {
+    height: 50px;
+}
+
+#accordion {
+    width: 100%;
+}
+
+.vertical-center {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.vertical-center35 {
+    margin-left: 25px;
+    margin-right: 25px;
+}

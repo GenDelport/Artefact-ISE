@@ -1,0 +1,19 @@
+﻿.body {
+    background-color: #32383e;
+    color: white;
+}
+
+.vertical-center {
+    margin-top: 25px !important;
+    margin-left: 25px !important;
+}
+
+#inputStudentNumber {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 200px !important;
+    height: 40px;
+}

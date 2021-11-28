@@ -1,0 +1,82 @@
+﻿.body {
+    background-color: #32383e;
+    color: white;
+}
+
+.bgcolor {
+    background-color: #32383e;
+}
+
+.txtbg {
+    background-color: rgba(33,37,41,255);
+    color: white;
+}
+
+.border {
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 200px;
+    height: 40px;
+}
+
+#inputNumber {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 700px;
+    height: 40px;
+}
+
+#inputSurname {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 700px;
+    height: 40px;
+}
+
+#inputInitials {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 700px;
+    height: 40px;
+}
+
+#inputTitle {
+    background-color: rgba(33,37,41,255);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    width: 700px;
+    height: 40px;
+}
+
+.borderProfile {
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 17.5px;
+    height: 25px;
+}
+
+.margin {
+    width: 100%;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.col-12{
+    margin-top:10px;
+}
+
+.form{
+    margin-left:10px;
+}
